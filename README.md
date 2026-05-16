@@ -89,13 +89,6 @@
 - ⏰ Time Management
 
 
-
-# 📈 GitHub Activity Graph
-
-[![Deekshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshitha2023&theme=rose-pine)](https://github.com/deekshitha2023)
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
