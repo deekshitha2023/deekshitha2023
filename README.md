@@ -92,7 +92,7 @@
 
 # 📈 GitHub Activity Graph
 
-[![Deekshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=rose-pine)](https://github.com/YOUR_USERNAME)
+[![Deekshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshitha2023&theme=rose-pine)](https://github.com/deekshitha2023)
 
 ---
 
@@ -104,7 +104,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/deekshitha2023">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
