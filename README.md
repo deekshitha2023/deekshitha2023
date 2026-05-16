@@ -40,19 +40,6 @@
 - 🔗 Git & GitHub
 - 💡 Problem Solving
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true"/>
-
-</div>
-
----
 
 # 🚀 Academic Project
 
@@ -88,6 +75,13 @@
 - 🌸 Positive Attitude
 - ⏰ Time Management
 
+
+
+# 📈 GitHub Activity Graph
+
+[![Deekshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deekshitha2023&theme=rose-pine)](https://github.com/deekshitha2023)
+
+---
 
 # 🌐 Connect With Me
 
